@@ -1,12 +1,20 @@
-# React + Vite
+# 🚀 EchoAi Chatbot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+EchoAi is an AI chatbot powered by **Gemini API** 🤖. Built with **ReactJS + Vite** for frontend and **Node.js** for backend, it provides fast, interactive chat responses.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- Real-time AI chat 🤖  
+- Axios for API requests ⚡  
+- Clean ReactJS + Vite frontend 🎨  
+- Node.js backend server 🔧  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** ReactJS, Vite  
+- **Backend:** Node.js, Express  
+- **API:** Gemini API via Axios
