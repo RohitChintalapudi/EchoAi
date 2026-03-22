@@ -1,15 +1,15 @@
-# 🚀 EchoAi Chatbot
+#  EchoAi Chatbot
 
-EchoAi is an AI chatbot powered by **Gemini API** 🤖. Built with **ReactJS + Vite** for frontend and **Node.js** for backend, it provides fast, interactive chat responses.
+EchoAi is an AI chatbot powered by **Gemini API** . Built with **ReactJS + Vite** for frontend and **Node.js** for backend, it provides fast, interactive chat responses.
 
 ---
 
-## ✨ Features
+##  Features
 
-- Real-time AI chat 🤖  
-- Axios for API requests ⚡  
-- Clean ReactJS + Vite frontend 🎨  
-- Node.js backend server 🔧  
+- Real-time AI chat
+- Axios for API requests  
+- Clean ReactJS + Vite frontend 
+- Node.js backend server 
 
 ---
 
